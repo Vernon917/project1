@@ -12,6 +12,7 @@
     <title>Title</title>
 </head>
 <body>
+<h1>log in</h1>
 <form action="/login" method="post">
     username:<input name="name">
     password:<input name="pwd" type="password">
