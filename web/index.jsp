@@ -11,8 +11,14 @@
     <title>teng</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h2>keep fit!</h2>
 <p>变瘦不再是梦想<p>
 <a href="/turntologin">点我登陆!</a>
+=======
+<p>变瘦不再是梦想！<p>
+    <h1>change 1</h1>
+<a href="/turntologin">click here to log in!</a>
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
 </body>
 </html>

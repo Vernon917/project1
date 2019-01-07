@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="JavaTest:war exploded" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0f5629ba-35d3-4910-838e-ed5fb46abdef" name="Default Changelist" comment="">
+=======
+    <list default="true" id="28382046-e3df-4542-a2ee-f010a5a8ad58" name="Default Changelist" comment="Merge branch 'teng' of github.com:vernon917/project1 into teng&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaTest_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/demo/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/demo/service/LoginCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/demo/service/impl/LoginCheckImpl.class" beforeDir="false" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,10 +28,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="736818283">
+    <session id="-1695634451">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="7" />
+=======
+<<<<<<< HEAD
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="1" />
+=======
+          <entry key="project.closed" value="6" />
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -31,18 +49,35 @@
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.6" value="1" />
+<<<<<<< HEAD
           <entry key="project.opened" value="10" />
+=======
+          <entry key="project.opened" value="9" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
+          <entry key="jsp" value="1" />
+=======
           <entry key="java" value="10" />
+<<<<<<< HEAD
           <entry key="jsp" value="27" />
           <entry key="xml" value="26" />
+=======
+          <entry key="jsp" value="23" />
+          <entry key="xml" value="25" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
+          <entry key="JSP" value="1" />
+=======
           <entry key="JAVA" value="10" />
           <entry key="JSP" value="27" />
           <entry key="XML" value="26" />
@@ -62,55 +97,52 @@
           <entry key="JSP" value="575" />
           <entry key="PLAIN_TEXT" value="75" />
           <entry key="XML" value="131" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf>
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/failed.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="488">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="38">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+=======
+            <state relative-caret-position="-610">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="spring-beans.schema" />
-        <option value="Interface" />
-        <option value="Class" />
-        <option value="Jsp File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/demo/service/LoginCheck.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/succes.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/web/loginjsp.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/index.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/demo/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/demo/service/impl/LoginCheckImpl.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/failed.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/loginjsp.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/success.jsp" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -118,6 +150,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -138,6 +171,17 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-155" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="225" />
+    <option name="y" value="62" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+=======
+    <option name="x" value="641" />
+    <option name="y" value="40" />
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
     <option name="width" value="1245" />
     <option name="height" value="955" />
   </component>
@@ -154,60 +198,113 @@
         </selected-state>
       </profile-state>
     </entry>
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+=======
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546852675307" />
+=======
+<<<<<<< HEAD
+    <property name="project.structure.last.edited" value="Libraries" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546835759245" />
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
     <property name="last_opened_file_path" value="D:/Git/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
     <property name="project.structure.proportion" value="0.15" />
+<<<<<<< HEAD
     <property name="project.structure.side.proportion" value="0.48279816" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
@@ -216,6 +313,9 @@
       <recent name="D:\JavaTest\web" />
       <recent name="D:\JavaTest\web\WEB-INF\jsp" />
     </key>
+=======
+    <property name="project.structure.side.proportion" value="0.2" />
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,7 +333,7 @@
     <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.82" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="JavaTest:war exploded">
+        <artifact name="springmvcdemo1:Web exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -248,7 +348,7 @@
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="50824" />
+        <option name="DEBUG_PORT" value="50909" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -296,8 +396,9 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method v="2">
+        <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="JavaTest:war exploded" />
+          <artifact name="springmvcdemo1:Web exploded" />
         </option>
       </method>
     </configuration>
@@ -307,10 +408,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0f5629ba-35d3-4910-838e-ed5fb46abdef" name="Default Changelist" comment="" />
-      <created>1546437380971</created>
+      <changelist id="28382046-e3df-4542-a2ee-f010a5a8ad58" name="Default Changelist" comment="" />
+      <created>1546851191397</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
+      <updated>1546851191397</updated>
+      <workItem from="1546851203136" duration="618000" />
+=======
       <updated>1546437380971</updated>
       <workItem from="1546437396784" duration="6224000" />
       <workItem from="1546564684806" duration="831000" />
@@ -329,7 +434,9 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1546652091853</updated>
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="teng">
       <created>1546849978039</created>
       <option name="number" value="00002" />
@@ -386,11 +493,31 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+=======
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="618000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+=======
+    <option name="totallyTimeSpent" value="10327000" />
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989011" visible="true" weight="0.17895442" />
       <window_info id="Structure" order="1" sideWeight="0.50109893" side_tool="true" weight="0.1769437" />
       <window_info id="Designer" order="2" />
@@ -406,6 +533,36 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1769437" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Application Servers" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16005665" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+=======
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
@@ -415,14 +572,9 @@
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49932975" weight="0.3555241" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,6 +583,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+=======
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the introduce of jsp" />
     <MESSAGE value="teng" />
@@ -511,8 +670,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="488">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+=======
+        <state relative-caret-position="-610">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
+>>>>>>> f8661a626c7194474c33077ceca24f9950fc051f
         </state>
       </provider>
     </entry>
@@ -522,11 +687,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>JavaTest:war exploded</last-edited>
+          <last-edited>springmvcdemo1:Web exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.48279816" />
+                <option value="0.2" />
                 <option value="0.5" />
               </list>
             </option>
@@ -535,11 +700,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring (JavaTest)|Spring</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.48279816" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -550,7 +715,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.34059632" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -562,7 +727,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.48279816" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -570,6 +735,9 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+<<<<<<< HEAD
+          <last-edited>Web|springmvcdemo1</last-edited>
+=======
           <last-edited>Web|JavaTest</last-edited>
           <splitter-proportions>
             <option name="proportions">
@@ -583,6 +751,7 @@
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+>>>>>>> 36d6dedb206a38620022d4ac51b5692837c070ca
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -595,17 +764,6 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: commons-logging:commons-logging:1.1.3</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.48279816" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
