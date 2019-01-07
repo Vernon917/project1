@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="f245b47f-a81e-46a3-823d-b839241c5436" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
@@ -19,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springmvcdemo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvcdemo1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-=======
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="springmvcdemo1:Web exploded" />
@@ -29,7 +27,6 @@
     <list default="true" id="70fa3d59-f03d-4fd1-b75c-0af67bd0b35b" name="Default" comment="yaya's modify">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,7 +37,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="1953907717">
       <usages-collector id="statistics.lifecycle.project">
@@ -78,7 +74,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-=======
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
@@ -87,7 +82,6 @@
             <state relative-caret-position="285">
               <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
             </state>
           </provider>
         </entry>
@@ -115,7 +109,6 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="300" />
     <option name="y" value="-32" />
@@ -125,7 +118,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-=======
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -152,35 +144,28 @@
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-<<<<<<< HEAD
       <pane id="Scope" />
-=======
       <pane id="AndroidView" />
       <pane id="Scratches" />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
-<<<<<<< HEAD
               <item name="project1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
               <item name="project1" type="462c0819:PsiDirectoryNode" />
-=======
               <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvcdemo1" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -193,13 +178,10 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-=======
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
@@ -236,11 +218,8 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-<<<<<<< HEAD
         <option name="DEBUG_PORT" value="50152" />
-=======
         <option name="DEBUG_PORT" value="55644" />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -380,7 +359,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
       <changelist id="f245b47f-a81e-46a3-823d-b839241c5436" name="Default Changelist" comment="" />
       <created>1546853888533</created>
       <option name="number" value="Default" />
@@ -426,7 +404,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-=======
       <changelist id="70fa3d59-f03d-4fd1-b75c-0af67bd0b35b" name="Default" comment="" />
       <created>1546832221895</created>
       <option name="number" value="Default" />
@@ -490,7 +467,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,13 +475,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-=======
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yaya's modify" />
     <option name="LAST_COMMIT_MESSAGE" value="yaya's modify" />
@@ -520,7 +494,6 @@
         <state relative-caret-position="285">
           <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding />
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
         </state>
       </provider>
     </entry>
@@ -543,11 +516,8 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-<<<<<<< HEAD
           <last-edited>Spring</last-edited>
-=======
           <last-edited>Web (springmvcdemo1)|Web</last-edited>
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -583,8 +553,6 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>Web|springmvcdemo1</last-edited>
-<<<<<<< HEAD
-=======
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -597,7 +565,6 @@
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
->>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
           <splitter-proportions>
             <option name="proportions">
               <list>
