@@ -11,8 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<h1>yaya2</h1>
-<p>hello world</p>
+<p>siyaya</p>
 <a href="/turntologin">click here to log in!</a>
 </body>
 </html>
