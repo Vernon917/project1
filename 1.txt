@@ -1,5 +1,0 @@
-1。index.jsp:开启界面
-2.login.jsp:登陆界面
-3.success.jsp：主页
-4.failed.jsp：失败界面（注册/登陆）
-5.注册功能
