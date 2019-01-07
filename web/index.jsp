@@ -11,8 +11,12 @@
     <title>Title</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>yaya1</h1>
 <p>123</p>
+=======
+<p>siyaya</p>
+>>>>>>> 123269003575cde0fc94af9a36fc1e87a8969eca
 <a href="/turntologin">click here to log in!</a>
 </body>
 </html>
