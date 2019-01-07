@@ -12,6 +12,7 @@
     <title>login success</title>
 </head>
 <body>
-<h1>welcome you!</h1>
+<hr>welcome you!<hr>
+我们一起变瘦吧！</h1>
 </body>
 </html>

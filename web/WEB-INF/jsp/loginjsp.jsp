@@ -12,11 +12,11 @@
     <title>Title</title>
 </head>
 <body>
-<h1>log in</h1>
+<h1>登 陆</h1>
 <form action="/login" method="post">
-    username:<input name="name">
-    password:<input name="pwd" type="password">
-    <input type="submit" value="submit">
+    姓名:<input name="name">
+    密码:<input name="pwd" type="password">
+    <input type="submit" value="确认">
 </form>
 </body>
 </html>
