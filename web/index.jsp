@@ -12,7 +12,6 @@
 </head>
 <body>
 <p>变瘦不再是梦想！<p>
-    <h1>change 1</h1>
-<a href="/turntologin">click here to log in!</a>
-</body>
+    <h1>change 3</h1>
+<a href="/turntologin">点击此处登陆!</a></body>
 </html>
