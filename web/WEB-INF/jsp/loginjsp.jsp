@@ -12,11 +12,19 @@
     <title>Title</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>登陆</h1>
 <form action="/login" method="post">
     姓名:<input name="name">
     密码:<input name="pwd" type="password">
     <input type="submit" value="提交">
+=======
+<h1>登 陆</h1>
+<form action="/login" method="post">
+    姓名:<input name="name">
+    密码:<input name="pwd" type="password">
+    <input type="submit" value="确认">
+>>>>>>> 0f10b8125eaa4bd6eaa3f30311064fe16c759736
 </form>
 </body>
 </html>

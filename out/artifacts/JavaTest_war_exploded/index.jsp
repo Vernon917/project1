@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<h1>welcome !!</h1>
-<a href="/turntologin">click here to log in!</a>
+<p>变瘦不再是梦想！<p>
+<a href="/turntologin">点我登陆!</a>
 </body>
 </html>
